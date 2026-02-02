@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Lwez 👋What's Up?</h1>
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
 </div>
 
-###
+
 
 <div align="center">
   <a href="www.linkedin.com/in/jr-romero1" target="_blank">
@@ -41,11 +41,11 @@
   </a>
 </div>
 
-###
+
 
 <br clear="both">
 
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LweZ01/LweZ01/output/pacman-contribution-graph-dark.svg">
@@ -53,4 +53,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LweZ01/LweZ01/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
