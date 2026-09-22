@@ -4,8 +4,6 @@
   <img alt="LweZ01's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-<h1 align="center">Hey I'm LweZ👋What's Up?</h1>
-
 ###
 
 <div align="center">
