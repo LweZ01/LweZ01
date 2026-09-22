@@ -69,9 +69,7 @@ NestJS, PostgreSQL, Redis, Docker and microservices architecture.**
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
 </p>
 
-<p align="center">
-### Data, Infrastructure & Frontend
-</p>
+### <p align="center"> Data, Infrastructure & Frontend </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL" />
   <img width="12" />
