@@ -70,44 +70,7 @@
 </p>
 
 ---
-<br clear="both">
-## 🧠 Backend Focus
 
-```text
-API Development
-       │
-       ├── REST
-       ├── Authentication
-       ├── Authorization
-       └── Validation
-
-Architecture
-       │
-       ├── MVC
-       ├── SOLID
-       ├── Clean Code
-       └── Design Patterns
-
-Databases
-       │
-       ├── PostgreSQL
-       ├── MongoDB
-       └── Redis
-
-Infrastructure
-       │
-       ├── Docker
-       ├── CI/CD
-       └── Cloud Deployment
-
-Advanced Backend
-       │
-       ├── Microservices
-       ├── Message Brokers
-       ├── WebSockets
-       └── Distributed Systems
-
-```
 ###
 
 <picture>
@@ -117,3 +80,4 @@ Advanced Backend
 </picture>
 
 ###
+---
