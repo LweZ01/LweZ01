@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <p align="center">🛠️ Tech Stack</p>
 ### <p align="center">Backend & Languages</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
