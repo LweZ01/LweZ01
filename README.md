@@ -1,5 +1,11 @@
 <h1 align="center">Jr Romero</h1>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="LweZ01's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <p align="center">
   <strong>Backend Developer · Systems Engineering Student</strong>
 </p>
@@ -7,12 +13,6 @@
 <p align="center">
   Building REST APIs, backend systems and database-driven applications.
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="LweZ01's GitHub profile" src="dark_mode.svg" />
-</picture>
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/jr-romero1/" target="_blank">
