@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="LweZ01's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <h1 align="center">Hey I'm LweZ👋What's Up?</h1>
 
 ###
