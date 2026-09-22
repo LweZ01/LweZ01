@@ -6,45 +6,44 @@
 
 ###
 
-<div data-importer="techs" align="center">
+---
 
-  <!-- Backend & Languages -->
-  <div>
-    <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  </div>
+## 🛠️ Tech Stack
+### <p align="center">Backend & Languages</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="Spring" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
+</p>
 
-  <br />
+### <p align="center"> Data, Infrastructure & Frontend </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="Redis" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3" />
+</p>
 
-  <!-- Data, Infrastructure & Frontend -->
-  <div>
-    <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
-  </div>
-
-</div>
+---
 
 ###
 
