@@ -52,9 +52,9 @@ NestJS, PostgreSQL, Redis, Docker and microservices architecture.**
 ---
 
 ## 🛠️ Tech Stack
-
+<p align="center">
 ### Backend & Languages
-
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
   <img width="12" />
@@ -71,8 +71,9 @@ NestJS, PostgreSQL, Redis, Docker and microservices architecture.**
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
 </p>
 
+<p align="center">
 ### Data, Infrastructure & Frontend
-
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL" />
   <img width="12" />
