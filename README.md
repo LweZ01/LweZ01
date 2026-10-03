@@ -5,7 +5,7 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode1.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode2.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="LweZ01's GitHub profile" src="dark_mode.svg" />
 </picture>
